@@ -1,0 +1,28 @@
+{
+    "faqs": [
+        {
+            "question": "What materials are your products made from?",
+            "answer": "All our products are made from sustainable materials like bamboo, recycled glass, and organic cotton."
+        },
+        {
+            "question": "What is your return policy?",
+            "answer": "You can return unused items within 30 days for a full refund. See our Return Policy for more details."
+        },
+        {
+            "question": "Do you offer free shipping?",
+            "answer": "Yes, we offer free shipping on orders over $50 within the continental U.S."
+        },
+        {
+            "question": "Are your products safe for children?",
+            "answer": "Yes, our products are made from non-toxic materials and are designed with safety in mind."
+        },
+        {
+            "question": "How do I care for bamboo products?",
+            "answer": "Handwash bamboo products with mild soap and avoid prolonged soaking to extend their lifespan."
+        },
+        {
+            "question": "Do you ship internationally?",
+            "answer": "Yes, we currently ship to Canada and Europe. Shipping fees and delivery times vary based on location."
+        }
+    ]
+}

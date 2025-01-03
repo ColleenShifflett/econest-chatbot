@@ -1,0 +1,28 @@
+{
+    "scenarios": [
+        {
+            "customer_query": "I accidentally ordered the wrong size for my rug. Can I exchange it?",
+            "response": "Yes, we offer free exchanges within 30 days of purchase. Please visit our Returns & Exchanges page to start the process."
+        },
+        {
+            "customer_query": "Is the bamboo cutlery dishwasher-safe?",
+            "response": "We recommend handwashing bamboo cutlery to extend its lifespan. Dishwashers may cause warping over time."
+        },
+        {
+            "customer_query": "How long does shipping take?",
+            "response": "Standard shipping takes 3-7 business days. Expedited shipping is available for an additional fee and takes 1-3 business days."
+        },
+        {
+            "customer_query": "Do you have a loyalty program?",
+            "response": "Yes, our loyalty program rewards you with points for every purchase, which can be redeemed for discounts on future orders."
+        },
+        {
+            "customer_query": "Can I track my order?",
+            "response": "Absolutely! Once your order ships, we'll send you a tracking link via email."
+        },
+        {
+            "customer_query": "Are your yoga mats non-slip?",
+            "response": "Yes, our cork yoga mats are designed to provide a firm, non-slip surface, even during intense workouts."
+        }
+    ]
+}
