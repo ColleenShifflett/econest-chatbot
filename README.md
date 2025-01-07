@@ -1,6 +1,6 @@
 # EcoNest Customer Service Chatbot
 
-![EcoNest Logo](./assets/econest_logo.png)
+![EcoNest Logo](./econest_logo.webp)
 
 
 ## Overview
