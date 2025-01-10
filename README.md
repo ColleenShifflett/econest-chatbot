@@ -34,7 +34,7 @@ econest-chatbot/
 
 ## Setup and Installation
 1. Clone repository
-'''bash
+```bash
 git clone https://github.com/ColleenShifflett/econest-chatbot.git
 cd econest-chatbot
 
