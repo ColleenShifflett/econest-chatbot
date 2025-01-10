@@ -34,17 +34,18 @@ econest-chatbot/
 
 ## Setup and Installation
 1. Clone repository
+'''bash
 git clone https://github.com/ColleenShifflett/econest-chatbot.git
 cd econest-chatbot
 
-2. Create virtual environment
+3. Create virtual environment
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-3. Install dependencies
+4. Install dependencies
 pip install -r requirements.txt
 
-4. Run the application
+5. Run the application
 uvicorn app.main:app --reload
 
 ## Roadmap
