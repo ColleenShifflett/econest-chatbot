@@ -14,6 +14,7 @@ An AI-engineered customer service chatbot for EcoNest, demonstrating modern soft
 - 🎯 Accurate response mapping
 
 ## Architecture
+```
 econest-chatbot/
 ├── app/
 │   ├── __init__.py
@@ -25,6 +26,7 @@ econest-chatbot/
 ├── static/              # Frontend assets
 ├── templates/           # HTML templates
 └── tests/              # Test suite
+```
 
 ## Technology Stack
 - FastAPI for backend API
@@ -40,14 +42,20 @@ cd econest-chatbot
 ```
 
 3. Create virtual environment
+```
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
 
 4. Install dependencies
+```
 pip install -r requirements.txt
+```
 
 5. Run the application
+```
 uvicorn app.main:app --reload
+```
 
 ## Roadmap
 - [ ] Enhanced NLP using transformers
