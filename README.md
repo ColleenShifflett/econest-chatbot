@@ -37,6 +37,7 @@ econest-chatbot/
 ```bash
 git clone https://github.com/ColleenShifflett/econest-chatbot.git
 cd econest-chatbot
+```
 
 3. Create virtual environment
 python -m venv venv
